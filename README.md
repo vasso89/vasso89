@@ -1,15 +1,15 @@
-# Привет! 👋 Я Василий
+# Hi there! 👋 I'm Vasily
 
-Начинающий frontend-разработчик.
+Beginner frontend developer from Russia.
 
-## 🛠️ Мой стек:
+## 🛠️ Tech Stack:
 - HTML5, CSS3 (Flexbox, Grid)
-- Адаптивная вёрстка
-- Git, GitHub
+- Responsive Web Design
+- Git, GitHub, GitHub Pages
 
-## 📂 Мои проекты:
-- [Пасека](https://github.com/vasso89/tolyan-honey) — адаптивный лендинг
-- [Портфолио](https://github.com/vasso89/portfolio) — мои работы
+## 📂 Featured Projects:
+- [Beekeeping Landing](https://vasso89.github.io/tolyan-honey) — responsive landing page
+- [Portfolio](https://vasso89.github.io/portfolio) — my works collection
 
-## 📫 Как связаться:
+## 📫 Connect with me:
 [Telegram](https://t.me/vasso89)
