@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! 👋 Я Василий
 
-<!--
-**vasso89/vasso89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий frontend-разработчик.
 
-Here are some ideas to get you started:
+## 🛠️ Мой стек:
+- HTML5, CSS3 (Flexbox, Grid)
+- Адаптивная вёрстка
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Мои проекты:
+- [Пасека](https://github.com/vasso89/tolyan-honey) — адаптивный лендинг
+- [Портфолио](https://github.com/vasso89/portfolio) — мои работы
+
+## 📫 Как связаться:
+[Telegram](https://t.me/vasso89)
