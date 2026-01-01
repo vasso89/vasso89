@@ -9,7 +9,7 @@ Beginner frontend developer from Russia.
 
 ## 📂 Featured Projects:
 - [Beekeeping Landing](https://vasso89.github.io/tolyan-honey) — responsive landing page
-- [Portfolio](https://vasso89.github.io/portfolio) — my works collection
+- [Portfolio](https://vasso89.github.io/Portfolio) — my works collection
 
 ## 📫 Connect with me:
 [Telegram](https://t.me/vasso89)
